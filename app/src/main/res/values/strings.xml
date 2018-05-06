@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LottieTest</string>
+    <string name="some_content_is_here">Some content is here</string>
 </resources>
